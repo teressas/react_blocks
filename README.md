@@ -1,6 +1,6 @@
 ## Description
 
-Practice styling using react components.
+Practice css styling using react components.
 
 # Getting Started with Create React App
 
